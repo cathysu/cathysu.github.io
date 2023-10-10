@@ -6,26 +6,50 @@
     <description>Recent content in Blogs on Cathy&#39;s Journey</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 09 Apr 2023 10:07:47 +0600</lastBuildDate><atom:link href="https://cathysu.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Sep 2023 10:07:47 +0600</lastBuildDate><atom:link href="https://cathysu.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>蘇蘇的第一篇文章</title>
-      <link>https://cathysu.github.io/blog/test/</link>
-      <pubDate>Sun, 09 Apr 2023 10:07:47 +0600</pubDate>
+      <title>Work Experience</title>
+      <link>https://cathysu.github.io/blog/work/</link>
+      <pubDate>Fri, 08 Sep 2023 10:07:47 +0600</pubDate>
       
-      <guid>https://cathysu.github.io/blog/test/</guid>
-      <description>上面是文章的啟動程式碼
-Hello World
-I&amp;rsquo;m Cathy
-標題二 標題四 要有空格 我是凱西 我要去英國</description>
+      <guid>https://cathysu.github.io/blog/work/</guid>
+      <description>Unrelated captions to main picture, it just proves my love of HIKING.</description>
     </item>
     
     <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://cathysu.github.io/blog/post-13/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <title>100 Peaks of Taiwan 🌄</title>
+      <link>https://cathysu.github.io/blog/hiking/</link>
+      <pubDate>Sun, 20 Aug 2023 10:07:47 +0600</pubDate>
       
-      <guid>https://cathysu.github.io/blog/post-13/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+      <guid>https://cathysu.github.io/blog/hiking/</guid>
+      <description>Unrelated captions to main picture, it just proves my love of HIKING.</description>
+    </item>
+    
+    <item>
+      <title>Living like a FISH 🐟</title>
+      <link>https://cathysu.github.io/blog/watersports/</link>
+      <pubDate>Sun, 20 Aug 2023 10:07:47 +0600</pubDate>
+      
+      <guid>https://cathysu.github.io/blog/watersports/</guid>
+      <description>Unrelated captions to main picture, it just proves my love of HIKING.</description>
+    </item>
+    
+    <item>
+      <title>Extra Curriculum Activities with Awards</title>
+      <link>https://cathysu.github.io/blog/activities/</link>
+      <pubDate>Fri, 19 May 2023 10:07:47 +0600</pubDate>
+      
+      <guid>https://cathysu.github.io/blog/activities/</guid>
+      <description>Unrelated captions to main picture, it just proves my love of HIKING.</description>
+    </item>
+    
+    <item>
+      <title>Certification Files</title>
+      <link>https://cathysu.github.io/blog/cert/</link>
+      <pubDate>Wed, 03 May 2023 10:07:47 +0600</pubDate>
+      
+      <guid>https://cathysu.github.io/blog/cert/</guid>
+      <description>Unrelated captions to main picture, it just proves my love of HIKING.</description>
     </item>
     
   </channel>
